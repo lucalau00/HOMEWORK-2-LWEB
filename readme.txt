@@ -27,7 +27,7 @@ registrarsi, effettuare il login, aggiungere viaggi alle proprie
 prenotazioni, rimuovere una prenotazione, simulare un pagamento e
 consultare lo storico dei pagamenti effettuati.
 
-Il progetto integra pagine HTML5 e XHTML, fogli di stile CSS, logica
+Il progetto integra pagine XHTML, fogli di stile CSS, logica
 lato server in PHP e una base di dati MySQL.
 
 
