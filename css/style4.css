@@ -1,0 +1,60 @@
+body { 
+    background-color: rgb(250,247,235); 
+    font-family: Arial, sans-serif; 
+}
+.container{
+    width:80%;
+    margin:50px auto;
+    background:#fff;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 8px lightsteelblue;
+}
+    table{
+        width:100%;
+        border-collapse:collapse;
+        color: darkblue
+    }
+    th,td{
+        padding:10px;
+        border-bottom:1px solid #ddd;
+        text-align:center;
+    }
+    tr:hover { background-color: #fef3f8; }
+    .btn{
+        background:lightsteelblue;
+        color:darkblue;
+        padding:8px 14px;
+        border:none;
+        border-radius:5px;
+        text-decoration:none;
+    }
+    .btn:hover{
+        background:darkblue;
+    }
+    .btn-danger{
+        background:lightsteelblue;
+    }
+    .btn-danger:hover{
+        background:darkblue;
+    }
+    .bottoni-fine{
+        display:flex;
+        justify-content:space-between;
+        margin-top:20px;
+    }
+    .totale{
+        text-align:right;
+        font-weight:bold;
+        margin-top:15px;
+        font-size:1.2em;
+        color: darkblue
+    }
+    h1{
+        color: darkblue;
+    }
+    .vuoto { 
+        text-align: center; 
+        color: gray; 
+        font-size: 1.1em; 
+    }
